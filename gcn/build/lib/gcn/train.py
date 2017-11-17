@@ -5,6 +5,8 @@ import sys
 sys.path.append('..')
 print(sys.path)
 '''
+import sys
+print(sys.path)
 import time
 import tensorflow as tf
 import numpy as np
